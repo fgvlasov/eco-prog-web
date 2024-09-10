@@ -1,8 +1,7 @@
 ### 1\. Clone this Repository
 
 ```bash
-git clone https://github.com/surjithctly/nextly-template.git
-```
+git clone https://github.com/fgvlasov/eco-prog-web
 
 ### 2\. Navigate to the directory
 
@@ -22,3 +21,10 @@ npm install
 npm run dev
 ```
 
+### 6\. Make own branch for work from dev branch, do not use main (it is for deploying)
+
+
+```
+git switch dev
+git branch dev_Val_texts
+```
