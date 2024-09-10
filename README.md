@@ -1,7 +1,8 @@
 ### 1\. Clone this Repository
 
-```bash
+```
 git clone https://github.com/fgvlasov/eco-prog-web
+```
 
 ### 2\. Navigate to the directory
 
@@ -26,5 +27,6 @@ npm run dev
 
 ```
 git switch dev
+```
 git branch dev_Val_texts
 ```
