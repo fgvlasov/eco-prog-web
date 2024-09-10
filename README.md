@@ -27,6 +27,5 @@ npm run dev
 
 ```
 git switch dev
-```
 git branch dev_Val_texts
 ```
