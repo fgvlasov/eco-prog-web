@@ -16,7 +16,7 @@ export default function Home() {
         preTitle="Eco-programming Benefits"
         title=" Why should you use this methodology"
       >
-        Eco-programming is more than just an approach to development — it's a
+        Eco-programming is more than just an approach to development — it`s a
         commitment to the future. By adopting this methodology, you not only
         create efficient, adaptable software but also minimize environmental
         impact.
