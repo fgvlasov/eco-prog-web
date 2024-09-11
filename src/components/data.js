@@ -11,23 +11,28 @@ import benefitOneImg from "../../public/img/benefit-one.png";
 import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: "Highlight your benefits",
-  desc: "You can use this space to highlight your first benefit or a feature of your product. It can also contain an image or Illustration like in the example along with some bullet points.",
+  title: 'Benefits of our Methodology',
+  desc: 'Traditional software practices often result in unnecessary resource consumption and short-lived solutions. Eco-programming ensures your code is sustainable, scalable, and aligned with a greener digital future. The world is moving towards sustainability—your software should too.',
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: 'Sustainability',
+      desc: 'Develop software that reduces waste and maximizes efficiency throughout its lifecycle, contributing to a greener planet.',
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: 'Future-Proof',
+      desc: 'Eco-programming prioritizes long-lasting, adaptable code, lowering maintenance costs and reducing the need for frequent updates.',
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: 'Long-Term Savings',
+      desc: 'Eco-programming prioritizes long-lasting, adaptable code, lowering maintenance costs and reducing the need for frequent updates.',
+      icon: <ChartBarSquareIcon />,
+    },
+    {
+      title: 'ESG Alignment',
+      desc: 'Meet and exceed Environmental, Social, and Governance (ESG) standards, positioning your organization as a leader in sustainable tech.',
       icon: <CursorArrowRaysIcon />,
     },
   ],
