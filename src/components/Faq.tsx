@@ -36,21 +36,30 @@ export const Faq = () => {
 
 const faqdata = [
   {
-    question: "Is this template completely free to use?",
-    answer: "Yes, this template is completely free to use.",
-  },
-  {
-    question: "Can I use it in a commercial project?",
-    answer: "Yes, this you can.",
-  },
-  {
-    question: "What is your refund policy? ",
+    question: 'What is Eco-Programming?',
     answer:
-      "If you're unhappy with your purchase for any reason, email us within 90 days and we'll refund you in full, no questions asked.",
+      'Eco-programming is a methodology that focuses on developing software in a way that minimizes environmental impact. This includes creating adaptable, efficient code that reduces resource consumption and aligns with sustainable practices throughout the software lifecycle.',
   },
   {
-    question: "Do you offer technical support? ",
+    question: 'How does Eco-Programming benefit my organization?',
     answer:
-      "No, we don't offer technical support for free downloads. Please purchase a support plan to get 6 months of support.",
+      'Eco-programming reduces long-term costs by focusing on sustainability and adaptability, meaning your software requires fewer updates and consumes fewer resources over time. It also helps align your business with ESG (Environmental, Social, and Governance) metrics, appealing to environmentally-conscious clients and investors.',
+  },
+  {
+    question:
+      'Is eco-programming more expensive than traditional development? ',
+    answer:
+      'While initial costs may be similar, eco-programming offers significant savings over time. By creating software that’s designed for the long term, you reduce the need for frequent updates, lowering maintenance costs and increasing efficiency.',
+  },
+  {
+    question: 'How can I start using eco-programming in my projects? ',
+    answer:
+      'You can begin by incorporating sustainable coding practices, choosing eco-friendly technologies, and partnering with the Eco-Programming Alliance for guidance and collaboration. We offer resources and community support to help your team adopt eco-programming principles.',
+  },
+  {
+    question:
+      'Does eco-programming apply to all types of software development?',
+    answer:
+      'Yes! Whether you`re building web applications, mobile apps, or complex systems, eco-programming principles can be applied across all software development sectors, ensuring sustainability in any project.',
   },
 ];
