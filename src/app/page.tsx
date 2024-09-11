@@ -16,31 +16,33 @@ export default function Home() {
         preTitle="Eco-programming Benefits"
         title=" Why should you use this methodology"
       >
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        Eco-programming is more than just an approach to development — it's a
+        commitment to the future. By adopting this methodology, you not only
+        create efficient, adaptable software but also minimize environmental
+        impact.
       </SectionTitle>
 
       <Benefits data={benefitOne} />
-      <Benefits imgPos="right" data={benefitTwo} />
+      {/* <Benefits imgPos="right" data={benefitTwo} /> */}
 
-      <SectionTitle
+      {/* <SectionTitle
         preTitle="Watch a video"
         title="Learn how to fullfil your needs"
       >
         This section is to highlight a promo or demo video of your product.
         Analysts says a landing page with video has 3% more conversion rate. So,
         don&apos;t forget to add one. Just like this.
-      </SectionTitle>
+      </SectionTitle> */}
 
-      <Video videoId="fZ0D0cnR88E" />
+      {/* <Video videoId="fZ0D0cnR88E" /> */}
 
       <SectionTitle
         preTitle="Testimonials"
-        title="Here's what our customers said"
+        title="Here's what our Developers said"
       >
-        Testimonials is a great way to increase the brand trust and awareness.
-        Use this section to highlight your popular customers.
+        These testimonials reflect the real-world impact of eco-programming on
+        businesses and developers, highlighting both the practical and ethical
+        benefits. Let me know if you need adjustments or more examples!
       </SectionTitle>
 
       <Testimonials />

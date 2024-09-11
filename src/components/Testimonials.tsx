@@ -13,42 +13,48 @@ export const Testimonials = () => {
         <div className="lg:col-span-2 xl:col-auto">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Share a real <Mark>testimonial</Mark>
-              that hits some of your benefits from one of your popular customer.
+              Eco-programming has completely <Mark>transformed</Mark> how we
+              approach software development. Not only have we seen long-term
+              cost savings, but our team is also proud to contribute to a more
+              sustainable future.
             </p>
 
             <Avatar
               image={userOneImg}
-              name="Sarah Steiner"
-              title="VP Sales at Google"
+              name="Alex M."
+              title="Lead Developer, GreenTech Solutions"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              Make sure you only pick the <Mark>right sentence</Mark>
-              to keep it short and simple.
+              By integrating eco-programming <Mark>principles</Mark> into our
+              projects, we've gained a competitive edge. Clients appreciate our
+              commitment to sustainability, and our software is more adaptable
+              than ever.
             </p>
 
             <Avatar
               image={userTwoImg}
-              name="Dylan Ambrose"
-              title="Lead marketer at Netflix"
+              name="Samantha T."
+              title="CEO, FutureCode Innovations"
             />
           </div>
         </div>
         <div className="">
           <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-14 rounded-2xl py-14 dark:bg-trueGray-800">
             <p className="text-2xl leading-normal ">
-              This is an <Mark>awesome</Mark> landing page template I&apos;ve
-              seen. I would use this for anything.
+              The Eco-Programming Alliance has been an incredible resource for
+              us. Their emphasis on <Mark>sustainability</Mark> and best
+              practices has helped us align our development process with our
+              environmental goals.
             </p>
 
             <Avatar
               image={userThreeImg}
-              name="Gabrielle Winn"
-              title="Co-founder of Acme Inc"
+              name="John P."
+              title="CTO, EcoSoft Labs"
             />
           </div>
         </div>
