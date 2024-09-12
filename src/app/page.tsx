@@ -20,16 +20,18 @@ export default function Home() {
 
 <p>
 
-Eco-programming is a <a href="https://medium.com/@vrakitine/introduction-to-eco-programming-paradigm-9f7f2c972acd">programming paradigm</a> based on the idea that any software product is ultimately useless and harmful to humanity, except for software that can be quickly and inexpensively reprogrammed (modified, updated) to work with new data in new conditions.
+Eco-programming is a programming paradigm based on the idea that any software product is ultimately useless and harmful to humanity, except for software that can be quickly and inexpensively reprogrammed (modified, updated) to work with new data in new conditions.
 
 We are proud to announce that the Eco-Programming Alliance (EPA) already includes three foundational methodologies:</p>
 <ul>
   <li>Automata-Based Programming</li>
-  <li>V-Agent Oriented Programming (VAOP)</li>
+  <li><a href="https://medium.com/@vrakitine/introduction-to-v-agent-oriented-programming-vaop-4eca0f96d86b">V-Agent Oriented Programming (VAOP)</a></li>
   <li>Model-Driven Engineering</li>
 </ul>
 
-<p>These methodologies are already operating within the new eco-programming paradigm, emphasizing sustainability and environmental responsibility in software development.</p>These methodologies are already operating within the new eco-programming paradigm, emphasizing sustainability and environmental responsibility in software development.
+<p>These methodologies are already operating within the new <a href="https://medium.com/@vrakitine/introduction-to-eco-programming-paradigm-9f7f2c972acd">eco-programming paradigm</a>, 
+emphasizing sustainability and environmental responsibility in software development.</p>
+These methodologies are already operating within the new eco-programming paradigm, emphasizing sustainability and environmental responsibility in software development.
 
 <p>Call to Action:</p>
 
