@@ -84,7 +84,7 @@ export function Footer() {
                   height="24"
                 />
               </a>
-              {/* <a
+              {/*   <a
                 href="https://facebook.com/web3templates"
                 target="_blank"
                 rel="noopener"
