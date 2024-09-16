@@ -24,7 +24,7 @@ export function Footer() {
                 className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100"
               >
                 <Image
-                  src="/img/epa_logo_white_2024-09-07_01_01-page001.png"
+                  src="/img/epa_logo_white_2024-09-07_01-page001.png"
                   alt="N"
                   width="50"
                   height="50"
