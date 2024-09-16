@@ -1,14 +1,24 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import { FC } from 'react';
 
-const TeamMember = ({ team }) => {
-	
+interface Team {
+  id: string;
+  name: string;
+  designation: string;
+  image: string;
+}
+
+interface TeamMemberProps {
+  team: Team;
+}
+
+const TeamMember: FC<TeamMemberProps> = ({ team }) => {
   return (
     <div className="axil-team">
       <div className="inner">
         <div className="thumbnail paralax-image">
           {/* <Link href={`/team/${team.id}`}> */}
-
           <Image
             width={600}
             height={560}
