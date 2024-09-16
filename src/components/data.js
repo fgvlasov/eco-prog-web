@@ -61,5 +61,67 @@ const benefitTwo = {
   ],
 };
 
+const teamList = {
+  team: [
+    {
+      id: 1,
+      name: 'Valeri Rakitine',
+      image: '/img/team/val.jpg',
+      designation: 'Founder and Initiator',
+      department: ['Management'],
+      socials: [
+        { type: 'facebook', url: '#' },
+        { type: 'twitter', url: '#' },
+        { type: 'pinterest', url: '#' },
+        { type: 'linkedin', url: '#' },
+        { type: 'instagram', url: '#' },
+        { type: 'vimeo', url: '#' },
+        { type: 'dribble', url: '#' },
+        { type: 'behance', url: '#' },
+      ],
+      introduction:
+        'Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.',
+    },
+    {
+      id: 2,
+      name: 'Fedor Vlasov ',
+      image: '/img/team/ted.jpg',
+      designation: 'CEO',
+      department: ['Management', 'Frontend'],
+      socials: [
+        { type: 'facebook', url: '#' },
+        { type: 'twitter', url: '#' },
+        { type: 'pinterest', url: '#' },
+        { type: 'linkedin', url: '#' },
+        { type: 'instagram', url: '#' },
+        { type: 'vimeo', url: '#' },
+        { type: 'dribble', url: '#' },
+        { type: 'behance', url: '#' },
+      ],
+      introduction:
+        'Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.',
+    },
+    {
+      id: 3,
+      name: 'Iryna Pyl ',
+      image: '/img/user1.jpg',
+      designation: 'ESG specialist',
+      department: ['Management', 'App Developer'],
+      socials: [
+        { type: 'facebook', url: '#' },
+        { type: 'twitter', url: '#' },
+        { type: 'pinterest', url: '#' },
+        { type: 'linkedin', url: '#' },
+        { type: 'instagram', url: '#' },
+        { type: 'vimeo', url: '#' },
+        { type: 'dribble', url: '#' },
+        { type: 'behance', url: '#' },
+      ],
+      introduction:
+        'Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus.',
+    },
+  ],
+};
 
-export {benefitOne, benefitTwo};
+
+export {benefitOne, benefitTwo, teamList};

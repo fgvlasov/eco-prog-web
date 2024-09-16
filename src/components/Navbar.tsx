@@ -7,12 +7,16 @@ import { Disclosure } from "@headlessui/react";
 export const Navbar = () => {
   const navigation = [
     {
+      title: 'Alliance',
+      link: '/', 
+    },
+    {
       title: 'Invitation',
-      link: '/invitation', // Replace with the actual link
+      link: '/invitation', 
     },
     {
       title: 'Team',
-      link: '/team', // Replace with the actual link
+      link: '/team', 
     },
   ];
 

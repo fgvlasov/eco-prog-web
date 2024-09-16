@@ -101,7 +101,7 @@ export function Footer() {
                 <Instagram />
               </a> */}
               <a
-                href="https://www.linkedin.com/in/valrakitine/"
+                href="https://www.linkedin.com/company/eco-programming-alliance/"
                 target="_blank"
                 rel="noopener"
               >
