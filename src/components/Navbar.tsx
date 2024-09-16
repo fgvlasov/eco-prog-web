@@ -26,15 +26,15 @@ export const Navbar = () => {
         {/* Logo  */}
         <Link href="/">
           <span className="flex items-center space-x-2 text-2xl font-medium text-indigo-500 dark:text-gray-100">
-            <span>
-              <Image
-                src="/img/epa_logo_2024-09-07_02-page001.png"
-                width="50"
-                alt="N"
-                height="50"
-                className=""
-              />
-            </span>
+              <span>
+                <Image
+                  src="/img/epa_logo_white_2024-09-07_01_01-page001.png"
+                  width="50"
+                  alt="N"
+                  height="50"
+                  className=""
+                />
+              </span>
             <span>Eco-Programming Alliance</span>
           </span>
         </Link>
