@@ -13,7 +13,7 @@ export default function Home() {
     <Container>
       <Hero />
       <SectionTitle
-        preTitle="Eco-programming Benefits"
+        preTitle="Bringing Visibility to the Unseen: Eco-Programming for a Sustainable Digital Future"
         title="We are pleased to invite in our Alliance"
       >
         Eco-programming is more than just an approach to development — it`s a
