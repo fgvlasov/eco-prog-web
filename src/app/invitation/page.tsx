@@ -82,7 +82,7 @@ export default function Invitation() {
           </ul>
 
           <p>Join Us! If you share our values and want to contribute to creating a sustainable future for software, please contact us to learn more about how you can become part of the Eco-Programming Alliance.</p>
-          <p>&nbsp;</p>
+          <p>.</p>
           <p>Sincerely,</p>
           <p><a href="https://www.linkedin.com/in/valrakitine/">Valeri Rakitine</a></p>
           <p>Founder and Initiator</p>
