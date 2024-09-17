@@ -19,7 +19,7 @@ export default function Home() {
         Eco-programming is more than just an approach to development — it`s a
         commitment to the future. By adopting this methodology, you not only
         create efficient, adaptable software but also minimize environmental
-        impact.
+        impact. <i>The eco-programming paradigm is poised to reshape how investors assess companies.</i>
         <div>
           <a
             href="/invitation"
