@@ -22,14 +22,18 @@ export default function Invitation() {
           </p>
           <ul>
             <li>
+              <a href="https://en.wikipedia.org/wiki/Model-driven_engineering">Model-Driven Engineering</a>
+            </li>
+            <li>
               <a href="https://en.wikipedia.org/wiki/Automata-based_programming_(Shalyto's_approach)">Automata-based programming (Shalyto’s approach)</a>
             </li>
             <li>
               <a href="https://medium.com/@vrakitine/introduction-to-v-agent-oriented-programming-vaop-4eca0f96d86b">V-Agent Oriented Programming (VAOP)</a>
             </li>
             <li>
-              <a href="https://en.wikipedia.org/wiki/Model-driven_engineering">Model-Driven Engineering</a>
+              <a href="https://en.wikipedia.org/wiki/Functional_programming">Functional Programming</a>
             </li>
+
           </ul>
           <p>
             These methodologies are already operating within the {' '}
