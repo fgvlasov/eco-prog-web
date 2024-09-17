@@ -45,13 +45,13 @@ export default function Invitation() {
           </p>
 
           <h3>Alignment with {' '}<a href="https://codes.global">CODES</a> and Our Initial Focus</h3>
-          <p>Aligned with the objectives of the CODES initiative, our initial focus is on Enabling Alignment—connecting the vision, values, and objectives of digitalization with sustainable development. Our aim is to bridge the gap between digital and sustainability sectors by fostering interdisciplinary collaboration.</p>
-          <p>To achieve this, we will work on:</p>
+          <p>Aligned with the objectives of the CODES initiative, our initial focus is on Enabling Alignment - connecting the vision, values, and objectives of digitalization with sustainable development. Our aim is to bridge the gap between digital and sustainability sectors by fostering interdisciplinary collaboration.</p>
+          <p>To accomplish this, we will prioritize:</p>
           <ul>
-            <li><b>Building Digital Competencies:</b> Empowering software engineers and developers to understand the environmental impact of their work while designing innovative, sustainable solutions.</li>
-            <li><b>Harnessing Science and Systems Thinking:</b> Promoting a systems-based approach to evaluate how digital technologies affect sustainability and how these technologies can be aligned to promote sustainable outcomes.</li>
+            <li><b>Building Digital Competencies:</b> Empowering software engineers and developers to understand the environmental impact of their work while designing innovative, sustainable solutions. As ESG (Environmental, Social, Governance) metrics increasingly influence investment decisions, aligning development processes with sustainability principles will not only improve environmental outcomes but also make companies more attractive to eco-conscious investors.</li>
+            <li><b>Harnessing Science and Systems Thinking:</b> Promoting a systems-based approach to evaluate how digital technologies affect sustainability and how these technologies can be aligned to promote sustainable outcomes. By engaging in this effort, companies can stay ahead of industry trends and potentially benefit from future certifications related to eco-programming and sustainability practices, providing them with a competitive edge.</li>
           </ul>
-          
+          <p>Additionally, <b>Eco-Programming Alliance</b> will adopt a <b>member-driven network approach</b> where every member is actively involved in spreading eco-programming principles. This fosters community growth and collaboration, as each member contributes to expanding the Alliance's reach and impact. By joining the Alliance, companies not only benefit from the collective efforts to drive sustainable development but also play an active role in shaping the future of eco-programming.</p>
           
           
           <h3>Call to Action:</h3>
@@ -62,24 +62,22 @@ export default function Invitation() {
           
           <ul>
             <li>
-              Raise Awareness: Spread the ideas of eco-programming among
-              developers and companies.
+              <b>Raise Awareness:</b> Spread the principles of eco-programming among developers, companies, and institutions, making them more aware of the environmental impact of their development practices.
             </li>
             <li>
-              Promote Best Practices: Facilitate the adoption of methodologies
-              and technologies that support eco-programming principles.
+            <b>Promote Best Practices:</b> Encourage the adoption of sustainable methodologies and technologies that align with the eco-programming paradigm, ensuring that businesses can integrate them into their workflows.
             </li>
             <li>
-              Build a Community: Unite like-minded individuals for knowledge,
-              experience, and resource sharing.
+            <b>Build a Community:</b> Bring together developers, companies, and organizations that share the goal of environmentally responsible programming. Create an active network where knowledge, resources, and best practices are exchanged.
             </li>
             <li>
-              Education and Development: Conduct seminars, courses, and training
-              to disseminate environmentally responsible practices.
+            <b>Education and Development:</b> Host seminars, courses, and workshops aimed at equipping developers with the skills and tools they need to adopt eco-programming principles. This will also include offering certifications to developers who have been trained in eco-friendly programming practices.
             </li>
             <li>
-              Influence the Industry: Impact companies and developers to
-              implement sustainable practices.
+            <b>Influence the Industry:</b> 
+                <p>The eco-programming paradigm is poised to reshape how investors assess companies. As <b>ESG metrics</b> become a more prominent tool in evaluating a company’s sustainability efforts, programming technologies and methodologies will increasingly come under scrutiny. Investors are expected to factor in the <b>environmental impact of software development</b>, placing higher value on companies that use eco-programming technologies.</p>
+                <p><b>Technology choices</b> made during the software development process - such as adopting energy-efficient algorithms, minimizing code redundancy, and favoring long-term maintainability - will soon be key metrics for <b>ESG reporting</b>. This shift will put pressure on companies to use eco-certified developers and integrate sustainable programming practices into their projects.</p>
+                <p>By joining the Eco-Programming Alliance, companies can stay ahead of this trend. They will benefit from having their developers <b>eco-certified</b>, a designation that investors will recognize as a marker of sustainability. Additionally, projects that include a higher proportion of <b>eco-certified developers</b> will likely gain a competitive edge in attracting <b>eco-conscious investors</b>. Through the Alliance, companies will have access to a talent pool of certified programmers who are skilled in eco-programming principles, ensuring that their software projects align with future sustainability requirements.</p>
             </li>
           </ul>
 
