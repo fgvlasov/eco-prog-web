@@ -66,7 +66,7 @@ const teamList = {
     {
       id: 1,
       name: 'Valeri Rakitine',
-      image: '/img/team/val.jpg',
+      image: '/img/team/val_850_850.jpg',
       designation: 'Founder and Initiator',
       department: ['Management'],
       socials: [
