@@ -11,28 +11,43 @@ import benefitOneImg from "../../public/img/benefit-one.png";
 import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
-  title: 'Benefits of our Methodology',
-  desc: 'Traditional software practices often result in unnecessary resource consumption and short-lived solutions. Eco-programming ensures your code is sustainable, scalable, and aligned with a greener digital future. The world is moving towards sustainability—your software should too.',
+  title: 'Eco-Programming Alliance: Seven Core Principles',
+  desc: 'As members of the Eco-Programming Alliance, we pledge to uphold and follow these guiding principles to create a sustainable and eco-conscious future in software development:',
   image: benefitOneImg,
   bullets: [
     {
-      title: 'Sustainability',
-      desc: 'Develop software that reduces waste and maximizes efficiency throughout its lifecycle, contributing to a greener planet.',
-      icon: <FaceSmileIcon />,
+      title: 'Sustainability First',
+      desc: 'We commit to prioritizing the reduction of environmental impact in every phase of software development, from design through deployment.',
+      icon: <CursorArrowRaysIcon />,
     },
     {
-      title: 'Future-Proof',
-      desc: 'Eco-programming prioritizes long-lasting, adaptable code, lowering maintenance costs and reducing the need for frequent updates.',
-      icon: <ChartBarSquareIcon />,
+      title: 'Energy Efficiency',
+      desc: 'We pledge to develop and adopt algorithms and technologies that minimize energy consumption and carbon emissions.',
+      icon: <CursorArrowRaysIcon />,
     },
     {
-      title: 'Long-Term Savings',
-      desc: 'Eco-programming prioritizes long-lasting, adaptable code, lowering maintenance costs and reducing the need for frequent updates.',
-      icon: <ChartBarSquareIcon />,
+      title: 'Code Efficiency',
+      desc: 'We promise to write clear, efficient, and maintainable code that avoids unnecessary complexity, ensuring minimal resource waste.',
+      icon: <CursorArrowRaysIcon />,
     },
     {
-      title: 'ESG Alignment',
-      desc: 'Meet and exceed Environmental, Social, and Governance (ESG) standards, positioning your organization as a leader in sustainable tech.',
+      title: 'Long-Term Focus',
+      desc: 'We vow to design software that is easy to maintain, update, and extend, reducing the need for resource-intensive redevelopment.',
+      icon: <CursorArrowRaysIcon />,
+    },
+    {
+      title: 'Modularity and Reusability',
+      desc: 'We commit to building modular and reusable components to maximize adaptability and reduce redundant development efforts.',
+      icon: <CursorArrowRaysIcon />,
+    },
+    {
+      title: 'Education and Advocacy',
+      desc: 'We dedicate ourselves to promoting education on sustainable programming practices and advocating for eco-friendly technology adoption across the industry.',
+      icon: <CursorArrowRaysIcon />,
+    },
+    {
+      title: 'Collaborative Progress',
+      desc: 'We are committed to collaborating with developers, companies, and organizations to establish and promote standards that enhance environmental responsibility in software development.',
       icon: <CursorArrowRaysIcon />,
     },
   ],
