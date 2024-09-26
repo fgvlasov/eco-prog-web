@@ -46,6 +46,7 @@ export default function Home() {
 
       {/* <Video videoId="fZ0D0cnR88E" /> */}
 
+      {/* 
       <SectionTitle
         preTitle="Testimonials"
         title="Here's what our Developers said"
@@ -56,6 +57,7 @@ export default function Home() {
       </SectionTitle>
 
       <Testimonials />
+      */}
 
       <SectionTitle preTitle="FAQ" title="Frequently Asked Questions">
         Answer your customers possible questions here, it will increase the
