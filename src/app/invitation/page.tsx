@@ -194,7 +194,7 @@ export default function Invitation() {
             a sustainable future for software, please contact us to learn more
             about how you can become part of the Eco-Programming Alliance.
           </p>
-          <p>.</p>
+          <p></p>
           <p>Sincerely,</p>
           <p>
             <a href="https://www.linkedin.com/in/valrakitine/">
