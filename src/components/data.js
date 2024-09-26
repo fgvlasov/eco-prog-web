@@ -12,7 +12,7 @@ import benefitTwoImg from "../../public/img/benefit-two.png";
 
 const benefitOne = {
   title: 'Eco-Programming Alliance: Seven Core Principles',
-  desc: 'As members of the Eco-Programming Alliance, we pledge to uphold and follow these guiding principles to create a sustainable and eco-conscious future in software development:',
+  desc: 'As members of the Eco-Programming Alliance, we pledge to uphold and follow these guiding principles to create a sustainable and eco-conscious future in software development. In this endeavor, we also recognize the growing role of artificial intelligence (AI) in shaping our technological landscape. Therefore, we must take on the responsibility of ensuring that the AI systems we create or interact with operate under eco-ethical guidelines. Since AI lacks moral judgment, it is up to developers to act as ethical stewards, ensuring that AI systems are designed, deployed, and used in ways that prioritize sustainability and ethical decision-making. With this commitment, we present our Seven Core Principles:',
   image: benefitOneImg,
   bullets: [
     {
