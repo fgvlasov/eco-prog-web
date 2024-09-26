@@ -158,7 +158,7 @@ export default function Invitation() {
               <p>
                 The eco-programming paradigm is poised to reshape how investors
                 assess companies. As <b>ESG metrics</b> become a more prominent
-                tool in evaluating a company’s sustainability efforts,
+                tool in evaluating a {'company\'s'} sustainability efforts,
                 programming technologies and methodologies will increasingly
                 come under scrutiny. Investors are expected to factor in the{' '}
                 <b>environmental impact of software development</b>, placing
