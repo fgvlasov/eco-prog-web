@@ -8,20 +8,24 @@ export const Navbar = () => {
   const navigation = [
     {
       title: 'Alliance',
-      link: '/', 
+      link: '/',
     },
     {
       title: 'Invitation',
-      link: '/invitation', 
+      link: '/invitation',
     },
     {
       title: 'Team',
-      link: '/team', 
+      link: '/team',
+    },
+    {
+      title: 'Contacts',
+      link: '/contacts',
     },
   ];
 
   return (
-    <div className="w-full">
+    <div className="w-full max-w-5xl mx-auto">
       <nav className="container relative flex flex-wrap items-center justify-between p-8 mx-auto lg:justify-between xl:px-1">
         {/* Logo  */}
         <Link href="/">
@@ -90,7 +94,7 @@ export const Navbar = () => {
 
         {/* menu  */}
         <div className="hidden text-center lg:flex lg:items-center">
-          <ul className="items-center justify-end flex-1 pt-6 list-none lg:pt-0 lg:flex">
+          <ul className="items-center justify-end flex-1 pt-6 list-none lg:flex">
             {navigation.map((menu, index) => (
               <li className="mr-3 nav__item" key={index}>
                 <Link

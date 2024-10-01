@@ -13,7 +13,7 @@ export function Footer() {
   ];
   const legal = ["Terms", "Privacy", "Legal"];
   return (
-    <div className="relative">
+    <div className="relative max-w-5xl mx-auto">
       <Container>
         <div className="grid max-w-screen-xl grid-cols-1 gap-10 pt-10 mx-auto mt-5 border-t border-gray-100 dark:border-trueGray-700 lg:grid-cols-5">
           <div className="lg:col-span-2">
