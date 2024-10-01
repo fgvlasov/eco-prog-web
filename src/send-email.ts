@@ -1,17 +1,24 @@
-import { FormData } from '@/components/Contacts';
+import { FormData } from '@/components/Contacts'; // Ensure this is your custom type or interface
 
-export function sendEmail(data: FormData) {
+export async function sendEmail(data: FormData) {
   const apiEndpoint = '/api/email';
 
-  fetch(apiEndpoint, {
-    method: 'POST',
-    body: JSON.stringify(data),
-  })
-    .then((res) => res.json())
-    .then((response) => {
-      alert(response.message);
-    })
-    .catch((err) => {
-      alert(err);
+  try {
+    const res = await fetch(apiEndpoint, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
     });
+
+    if (!res.ok) {
+      throw new Error(`Error: ${res.statusText}`);
+    }
+
+    const response = await res.json();
+    console.log(response.message);
+  } catch (err) {
+    console.log(`Failed to send email: ${err.message}`);
+  }
 }
