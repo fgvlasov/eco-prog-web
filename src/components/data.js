@@ -81,7 +81,7 @@ const teamList = {
     {
       id: 1,
       name: 'Valeri Rakitine',
-      image: '/img/team/val_850_850.jpg',
+      image: '/img/team/val_3.jpg',
       designation: 'Founder and Initiator',
       department: ['Management'],
       socials: [
@@ -100,7 +100,7 @@ const teamList = {
     {
       id: 2,
       name: 'Fedor Vlasov ',
-      image: '/img/team/ted.jpg',
+      image: '/img/team/ted_4.jpg',
       designation: 'CEO',
       department: ['Management', 'Frontend'],
       socials: [
@@ -119,7 +119,7 @@ const teamList = {
     {
       id: 3,
       name: 'Iryna Pyl ',
-      image: '/img/user1.jpg',
+      image: '/img/team/pyl_3.jpg',
       designation: 'ESG specialist',
       department: ['Management', 'App Developer'],
       socials: [
