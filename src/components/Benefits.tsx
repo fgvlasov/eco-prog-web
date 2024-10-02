@@ -59,7 +59,7 @@ export const Benefits = (props: Readonly<BenefitsProps>) => {
       </Container>
 
       <Container className="flex flex-wrap mb-20 lg:gap-10 lg:flex-nowrap ">
-        <div className="flex flex-wrap  w-full lg:w-1/2">
+        <div className="flex flex-wrap  w-full lg:w-1/2" id="benefits">
           <div className="w-full mt-5">
             {data.bullets.map(
               (item, index) =>
